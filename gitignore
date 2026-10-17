@@ -1,0 +1,11 @@
+# Python environment & cache
+venv/
+__pycache__/
+*.pyc
+
+# Local databases or dataset downloads
+.cache/
+*.csv
+
+# System files
+.DS_Store
